@@ -37,3 +37,7 @@ iframe#tela {
     width: 268px;
     height: 473px;
 }
+section#redes-socias > a > img{
+    width: 50px;
+    height: 50px;
+}
